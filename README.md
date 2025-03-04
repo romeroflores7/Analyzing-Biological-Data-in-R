@@ -1,1 +1,2 @@
-Knitted RMD files that display different anylazations of Biological Data using R with the libraries tidyverse,dplyr and imported biological data sets.
+Knitted RMD files that display different analyzations of Biological Data using R with the libraries tidyverse,dplyr and biological data sets. Covering important topics such as 
+Linear models and least squares fitting: simple and multiple linear regression; analysis of variance (fixed, random and mixed models; crossed and nested effects; balanced and unbalanced designs); analysis of covariance, factorial designs; incomplete layouts; use of transformations.
